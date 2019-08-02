@@ -1,0 +1,29 @@
+Command line:
+   MUX_ALUIN2_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58346
+
+Fri Jul 12 18:42:15 2019
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5177.34 Meg
+
+ Total Signals          : 17
+ Total Nets             : 110
+ Total Signal Drivers   : 6
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 7
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 190
+Total Line Count : 15
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 5177.34 Meg
+
+Fri Jul 12 18:42:19 2019
+

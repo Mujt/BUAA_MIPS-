@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/Mujiangtao/Desktop/computer_science/singcircle/ALU.xst" -ofn "C:/Users/Mujiangtao/Desktop/computer_science/singcircle/ALU.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa3s50-vqg100-4 ALU.ngc ALU.ngd  
+map -intstyle ise -p xa3s50-vqg100-4 -cm area -ir off -pr off -c 100 -o ALU_map.ncd ALU.ngd ALU.pcf 

@@ -1,0 +1,8 @@
+verilog work "MUX.v"
+verilog work "IFU.v"
+verilog work "GRF.v"
+verilog work "EXT.v"
+verilog work "DM.v"
+verilog work "controll.v"
+verilog work "ALU.v"
+verilog work "mips.v"
